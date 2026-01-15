@@ -2,5 +2,4 @@ fastapi
 uvicorn
 gunicorn
 groq
-google-generativeai
 python-multipart
